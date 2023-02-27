@@ -1,4 +1,4 @@
-package xyz.kdeDevelop.백준.입출력과_사칙연산.P6_10869;
+package xyz.kdeDevelop.백준.S1_입출력과_사칙연산.P2_1000;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,9 +14,5 @@ public class Main {
         int b = Integer.parseInt(input[1]);
 
         System.out.println(a + b);
-        System.out.println(a - b);
-        System.out.println(a * b);
-        System.out.println(a / b);
-        System.out.println(a % b);
     }
 }

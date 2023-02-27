@@ -1,4 +1,4 @@
-package xyz.kdeDevelop.백준.입출력과_사칙연산.P7_10926;
+package xyz.kdeDevelop.백준.S1_입출력과_사칙연산.P8_18108;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,6 +10,6 @@ public class Main {
         String input = bufferedReader.readLine();
         bufferedReader.close();
 
-        System.out.println(input.concat("??!"));
+        System.out.println(Integer.parseInt(input) - 543);
     }
 }

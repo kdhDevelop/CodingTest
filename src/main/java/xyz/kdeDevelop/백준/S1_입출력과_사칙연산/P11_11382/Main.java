@@ -1,4 +1,4 @@
-package xyz.kdeDevelop.백준.입출력과_사칙연산.P11_11382;
+package xyz.kdeDevelop.백준.S1_입출력과_사칙연산.P11_11382;
 
 import java.io.BufferedReader;
 import java.io.IOException;
